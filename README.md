@@ -210,7 +210,7 @@ SuperStore-Sales-Dashboard/
 
 📧 Email: sumeetdhobale34@gmail.com
 
-🔗 LinkedIn: *(Add your LinkedIn Profile)*
+🔗 LinkedIn: https://www.linkedin.com/in/sumeet-dhobale
 
 💻 GitHub: https://github.com/sumeetdhobale
 
